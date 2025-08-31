@@ -33,7 +33,8 @@ All Arduino source code is included in this repository:
 
 
 ## 🎥 Demo Video
-[![Watch the demo](https://drive.google.com/file/d/1fFPsp2sJHjTQnQCKW5P5PVPYvG-9Dm7L/view?usp=sharing)]
+👉 [Watch on Google Drive](https://drive.google.com/file/d/1fFPsp2sJHjTQnQCKW5P5PVPYvG-9Dm7L/view?usp=sharing)
+
   
 
 
