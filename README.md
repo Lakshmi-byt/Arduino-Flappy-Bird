@@ -25,6 +25,10 @@ An embedded systems project that recreates the classic **Flappy Bird game** on a
 ![Circuit Diagram](circuit_diagram (1))  
 
 
+## Demo
+
+![Breadboard Setup](breadboard.jpeg)
+
 
 ## 💻 Code
 All Arduino source code is included in this repository:  
